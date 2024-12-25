@@ -1,2 +1,2 @@
 # SWF2EXXE
-Swf to Exe is a program that converts any swf file (adobe flash file) in a executable program file.
+A program that makes faster the process to convert flash files in executables files.
