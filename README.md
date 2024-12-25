@@ -1,2 +1,2 @@
-Have you downloaded a flash game but don't know how to make it an executable application? 
-Well, with this program you can solve it.
+# SWF2EXXE
+Swf to Exe is a program that converts any swf file (adobe flash file) in a executable program file.
